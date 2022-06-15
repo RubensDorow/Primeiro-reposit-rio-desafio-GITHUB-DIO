@@ -1,6 +1,6 @@
 ﻿### Identidade (usuário e email)
 
-- **git config --global user.name "MarioJoao" **
+- **git config --global user.name** "MarioJoao"
 
 - **git config --global user.email** "mariojoao@testeGIT.com" 
 
