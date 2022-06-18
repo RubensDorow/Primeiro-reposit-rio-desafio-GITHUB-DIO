@@ -4,4 +4,4 @@ Desafio de projeto sobre Git/GitHub.
 
 ## Links úteis 
 [sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Download git] (https://git-scm.com)
+[Download git](https://git-scm.com)
