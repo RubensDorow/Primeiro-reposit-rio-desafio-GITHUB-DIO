@@ -15,5 +15,6 @@
 - **git config --list** _listar configurações_ 
 - **git status** _para verificar quais estados os arquivos estão_
 - **git commit**
+- **git clone** _Você clona um repositório adicionando o comando e a URL_ 
 
 1. git commit -m "mensagem" _comitar informando uma mensagem_ 
